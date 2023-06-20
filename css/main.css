@@ -1,0 +1,28 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    height: 100vh;
+    background: url("../img/lfc-background.jpg");
+    filter: grayscale(0.5);
+}
+
+.main__header {
+    font-size: 96px;
+    color: #fff;
+    padding: 40px 0;
+}
+
+.main__descr {
+    font-family: 'Tilt Prism', cursive;
+    font-size: 64px;    
+    margin-bottom: 40px;
+    color: #fff;
+}
+
+.main__img {
+    width: 350px;
+}
